@@ -1,6 +1,8 @@
 # Aprendendo Golang
 
-![Gopher fofinho](./fancy_gopher_renee.jpeg)
+<div align="center">
+  <img src="./fancy_gopher_renee.jpg" alt="Gopher fofinho" width="200">
+</div>
 
 ## O que é Golang?
 
