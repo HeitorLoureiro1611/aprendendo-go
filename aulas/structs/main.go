@@ -16,6 +16,7 @@ type pessoa struct {
 	idade int
 }
 
+// struct embutido sendo declarado
 type profissional struct {
 	pessoa
 	titulo  string
@@ -24,13 +25,13 @@ type profissional struct {
 
 func main() {
 
-	// uso do tipo struct
+	// fortma explicita de preencher os campos
 	cliente1 := cliente{
 		nome:      "João",
 		sobrenome: "Pereira",
 		fumante:   false,
 	}
-	// outra forma de usar um struct
+	// forma implicita de preencher campos
 	cliente2 := cliente{"joana", "pereira", true}
 
 	pessoa1 := pessoa{
@@ -38,6 +39,7 @@ func main() {
 		idade: 30,
 	}
 
+	// structs embutido sendo preenchido
 	pessoa2 := profissional{
 		pessoa: pessoa{
 			nome:  "Junior",
@@ -46,6 +48,8 @@ func main() {
 		titulo:  "Professor",
 		salario: 2300.0,
 	}
+	// acessando um item especifico do struct
+	// ""objeto"".itemdesejado
 	fmt.Println(pessoa1.nome)
 	fmt.Println(pessoa2)
 	fmt.Println(cliente1)
