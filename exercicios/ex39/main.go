@@ -17,7 +17,6 @@ func ondeestou() func() {
 func main() {
 
 	variavel := ondeestou()
-
 	variavel()
 
 }
