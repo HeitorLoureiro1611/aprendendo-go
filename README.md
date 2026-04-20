@@ -1,7 +1,7 @@
 # Aprendendo Golang
 
 <div align="center">
-  <img src="./fancy_gopher_renee.jpg" alt="Gopher fofinho" width="200">
+  <img src="./package-search-700x300.jpeg" alt="Gopher fofinho" width="300">
 </div>
 
 ## O que é Golang?
@@ -12,3 +12,7 @@ Go é uma linguagem de programação criada pela Google e lançada em código li
 
 Aprenda Go - Ellen Körbes:
 https://www.youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg
+
+Site oficial de pacotes de GO:
+https://pkg.go.dev/
+https://pkg.go.dev/std
