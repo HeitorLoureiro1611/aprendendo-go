@@ -16,3 +16,6 @@ https://www.youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg
 Site oficial de pacotes de GO:
 https://pkg.go.dev/
 https://pkg.go.dev/std
+
+Livro Let's Go - Alex Edwards
+https://lets-go.alexedwards.net/
